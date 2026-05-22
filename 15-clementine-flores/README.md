@@ -9,7 +9,8 @@ Nuestro proyecto representa en cómo en la actualidad y durante siglos, la supre
 
 #### ¿Qué se ve en pantalla?
 Se ve la opresión, la incomodidad y la inseguridad que han causado y siguen causando los hombres cis-hetero/opresores a toda persona no hombre, y también se muestra un mundo ideal en el que no existe esta opresión y florece la libertad como un lugar seguro en donde puedes ser tu mismx. 
-¿Qué elementos visuales aparecen?
+
+#### ¿Qué elementos visuales aparecen?
 *  Figuras geométricas representadas como las personas no hombres (mujeres, lesbianas, trans, no binaries, etc)
 *  Símbolo de hombre (supremacía cis-hetero)
 *  Frase dicha por Violeta Parra "Soy una hormiguita que busca bajo la tierra dónde poder refugiar su corazón", asociando "hormigas" como esta minoría no hombre.
@@ -19,7 +20,7 @@ Se ve la opresión, la incomodidad y la inseguridad que han causado y siguen cau
 Nuestra idea central del proyecto y la relación con nuestro sistema diseñado, es demostrar la realidad actual y no actual, de cómo las personas no hombres son oprimidas. Nuestra regla de oro en el proyecto funciona de esta manera: Mientras el mouse esté presionado, persiste la supremacía y opresión, pero al soltarlo, las personas no hombres pueden florecer libremente en este mundo ideal, o conviviendo con las mismas personas no hombres. La lógica con nuestra problemática se relaciona directamente en representación desde nosotras, como personas no hombres oprimidas por la supremacía diariamente, en cómo nosotras lo hemos vivido, y en que sabemos cómo puede ser vivenciarlo desde primera fuente. 
 
 #### Input / Output y sistema
-¿Qué datos entran? (INPUT)
+#### ¿Qué datos entran? (INPUT)
 *  La posición del mouse (mouseX y mouseY), que determina dónde aparece el símbolo masculino.
 *  La acción de presionar o soltar el mouse (mousePressed() y mouseReleased()), que cambia el estado de la variable opresion.
 *  Las imágenes cargadas al inicio (simbolo masculino.png y fondo.jpeg).
